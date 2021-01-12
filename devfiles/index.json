@@ -25,8 +25,8 @@
   },
   {
     "name": "java-quarkus",
-    "displayName": "Quarkus Java",
-    "description": "Upstream Quarkus with Java+GraalVM",
+    "displayName": "Quarkus Java Atarazana",
+    "description": "Upstream Quarkus with Java+GraalVM - Atarazana",
     "tags": [
       "Java",
       "Quarkus"
@@ -39,8 +39,8 @@
   },
   {
     "name": "java-springboot",
-    "displayName": "Spring Boot®",
-    "description": "Spring Boot® using Java",
+    "displayName": "Spring Boot® Atarazana",
+    "description": "Spring Boot® using Java - Atarazana",
     "tags": [
       "Java",
       "Spring"
