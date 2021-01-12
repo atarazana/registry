@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: python-django
+  name: python-django-atarazana
   version: 1.0.0
 starterProjects:
   - name: django-example

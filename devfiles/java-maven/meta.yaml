@@ -1,6 +1,6 @@
-name: java-maven
-displayName: Maven Java
-description: Upstream Maven and OpenJDK 11
+name: java-maven-atarazana
+displayName: Maven Java - Atarazana
+description: Upstream Maven and OpenJDK 11 - Atarazana
 tags: ["Java", "Maven"]
 projectType: "maven"
 language: "java"

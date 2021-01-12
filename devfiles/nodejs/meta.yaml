@@ -1,6 +1,6 @@
-name: nodejs
-displayName: NodeJS Runtime
-description: Stack with NodeJS 12
+name: nodejs-atarazana
+displayName: NodeJS Runtime - Atarazana
+description: Stack with NodeJS 12 - Atarazana
 tags: ["NodeJS", "Express", "ubi8"]
 projectType: "nodejs"
 language: "nodejs"

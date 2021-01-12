@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: python
+  name: python-atarazana
   version: 1.0.0
 starterProjects:
   - name: python-example

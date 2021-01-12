@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: java-openliberty
+  name: java-openliberty-atarazana
   version: 0.4.0
   description: Java application stack using Open Liberty runtime
   alpha.build-dockerfile: "https://github.com/OpenLiberty/application-stack/releases/download/outer-loop-0.4.0/Dockerfile"

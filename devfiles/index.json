@@ -1,8 +1,8 @@
 [
   {
-    "name": "java-maven",
-    "displayName": "Maven Java",
-    "description": "Upstream Maven and OpenJDK 11",
+    "name": "java-maven-atarazana",
+    "displayName": "Maven Java - Atarazana",
+    "description": "Upstream Maven and OpenJDK 11 - Atarazana",
     "tags": [
       "Java",
       "Maven"
@@ -14,9 +14,9 @@
     }
   },
   {
-    "name": "java-openliberty",
-    "displayName": "Open Liberty",
-    "description": "Open Liberty microservice in Java",
+    "name": "java-openliberty-atarazana",
+    "displayName": "Open Liberty - Atarazana",
+    "description": "Open Liberty microservice in Java - Atarazana",
     "projectType": "docker",
     "language": "java",
     "links": {
@@ -24,7 +24,7 @@
     }
   },
   {
-    "name": "java-quarkus",
+    "name": "java-quarkus-atarazana",
     "displayName": "Quarkus Java Atarazana",
     "description": "Upstream Quarkus with Java+GraalVM - Atarazana",
     "tags": [
@@ -38,7 +38,7 @@
     }
   },
   {
-    "name": "java-springboot",
+    "name": "java-springboot-atarazana",
     "displayName": "Spring Boot® Atarazana",
     "description": "Spring Boot® using Java - Atarazana",
     "tags": [
@@ -54,9 +54,9 @@
     }
   },
   {
-    "name": "java-vertx",
-    "displayName": "Vert.x Java",
-    "description": "Upstream Vert.x using Java",
+    "name": "java-vertx-atarazana",
+    "displayName": "Vert.x Java - Atarazana",
+    "description": "Upstream Vert.x using Java - Atarazana",
     "tags": [
       "Java",
       "Vert.x"
@@ -68,9 +68,9 @@
     }
   },
   {
-    "name": "nodejs",
-    "displayName": "NodeJS Runtime",
-    "description": "Stack with NodeJS 12",
+    "name": "nodejs-atarazana",
+    "displayName": "NodeJS Runtime - Atarazana",
+    "description": "Stack with NodeJS 12 - Atarazana",
     "tags": [
       "NodeJS",
       "Express",
@@ -83,9 +83,9 @@
     }
   },
   {
-    "name": "python",
-    "displayName": "Python",
-    "description": "Python Stack with Python 3.7",
+    "name": "python-atarazana",
+    "displayName": "Python - Atarazana",
+    "description": "Python Stack with Python 3.7 - Atarazana",
     "tags": [
       "Python",
       "pip"
@@ -97,9 +97,9 @@
     }
   },
   {
-    "name": "python-django",
-    "displayName": "Django",
-    "description": "Python3.7 with Django",
+    "name": "python-django-atarazana",
+    "displayName": "Django - Atarazana",
+    "description": "Python3.7 with Django - Atarazana",
     "tags": [
       "Python",
       "pip",

@@ -1,4 +1,4 @@
-name: java-quarkus
+name: java-quarkus-atarazana
 displayName: Quarkus Java Atarazana
 description: Upstream Quarkus with Java+GraalVM - Atarazana
 tags: ["Java", "Quarkus"]

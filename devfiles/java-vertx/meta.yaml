@@ -1,6 +1,6 @@
-name: java-vertx
-displayName: Vert.x Java
-description: Upstream Vert.x using Java
+name: java-vertx-atarazana
+displayName: Vert.x Java - Atarazana
+description: Upstream Vert.x using Java - Atarazana
 tags: ["Java", "Vert.x"]
 projectType: "vertx"
 language: "java"

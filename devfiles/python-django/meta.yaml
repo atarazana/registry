@@ -1,6 +1,6 @@
-name: python-django
-displayName: Django
-description: Python3.7 with Django
+name: python-django-atarazana
+displayName: Django - Atarazana
+description: Python3.7 with Django - Atarazana
 tags: ["Python", "pip", "Django"]
 projectType: "django"
 language: "python"

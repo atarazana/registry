@@ -1,6 +1,6 @@
-name: python
-displayName: Python
-description: Python Stack with Python 3.7
+name: python-atarazana
+displayName: Python - Atarazana
+description: Python Stack with Python 3.7 - Atarazana
 tags: ["Python", "pip"]
 projectType: "python"
 language: "python"
