@@ -1,6 +1,6 @@
 name: java-quarkus
-displayName: Quarkus Java
-description: Upstream Quarkus with Java+GraalVM
+displayName: Quarkus Java Atarazana
+description: Upstream Quarkus with Java+GraalVM - Atarazana
 tags: ["Java", "Quarkus"]
 projectType: "quarkus"
 language: "java"

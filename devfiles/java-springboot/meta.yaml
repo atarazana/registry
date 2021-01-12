@@ -1,6 +1,6 @@
 name: java-springboot
-displayName: Spring Boot®
-description: Spring Boot® using Java
+displayName: Spring Boot® Atarazana
+description: Spring Boot® using Java - Atarazana
 tags: ["Java", "Spring"]
 globalMemoryLimit: 2674Mi
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
