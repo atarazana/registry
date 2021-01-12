@@ -1,12 +1,13 @@
 schemaVersion: 2.0.0
 metadata:
-  name: java-springboot
+  name: springboot
   version: 1.1.0
 starterProjects:
-  - name: springbootproject
+  - name: springboot-ex
     git:
       remotes:
-        origin: "https://github.com/odo-devfiles/springboot-ex.git"
+        #origin: "https://github.com/odo-devfiles/springboot-ex.git"
+        origin: "https://github.com/cvicens/spring-boot-fruit-service"
 components:
   - name: tools
     container:
