@@ -26,21 +26,21 @@ commands:
   - id: build
     exec:
       component: tools
-      commandLine: "mvn clean -Dmaven.repo.local=/home/user/.m2/repository package -Dmaven.test.skip=true"
+      commandLine: "mvn clean -Dmaven.repo.local=/home/user/.m2/repository package -Dmaven.test.skip=true -Popenshift"
       group:
         kind: build
         isDefault: true
   - id: run
     exec:
       component: tools
-      commandLine: "mvn -Dmaven.repo.local=/home/user/.m2/repository spring-boot:run"
+      commandLine: "mvn -Dmaven.repo.local=/home/user/.m2/repository spring-boot:run -Dspring-boot.run.profiles=openshift -Popenshift"
       group:
         kind: run
         isDefault: true
   - id: debug
     exec:
       component: tools
-      commandLine: "java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=${DEBUG_PORT},suspend=n -jar target/*.jar"
+      commandLine: "java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=${DEBUG_PORT},suspend=n -jar -Dspring-boot.run.profiles=openshift -Popenshift target/*.jar"
       group:
         kind: debug
         isDefault: true
