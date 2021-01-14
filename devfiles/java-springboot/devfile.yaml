@@ -6,7 +6,7 @@ starterProjects:
   - name: springboot-ex
     git:
       remotes:
-        origin: "https://github.com/cvicens/spring-boot-fruit-service"
+        origin: "https://github.com/atarazana/spring-boot-fruit-service"
 components:
   - name: tools
     container:
